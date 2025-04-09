@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LP2981-50DBVR
+D Texas Instruments LP2981-50DBVR, LDO Voltage Regulator, 100mA, -0.3  9 V, 5-Pin SOT-23
+K
+F http://www.ti.com/lit/gpn/lp2981
+$ENDCMP
+#
+#End Doc Library

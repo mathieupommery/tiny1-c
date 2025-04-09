@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MIC803-30D2VM3-TR
+D Supervisory Circuits 3-Pin Microprocessor Supervisor Circuit w/ Open-Drain Reset Output
+K
+F http://ww1.microchip.com/downloads/en/DeviceDoc/mic803.pdf
+$ENDCMP
+#
+#End Doc Library

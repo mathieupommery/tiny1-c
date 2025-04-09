@@ -1,0 +1,43 @@
+
+
+0.3.0
+=========================================================
+1.重构SDK的代码结构，对原先在main函数中的内容进行拆分，将代码进行复用
+2.新增盲元自动标定和快门温度获取的接口
+3.新增环境变量修正的功能
+4.删去伪彩枚举 PSEUDO_COLOR_MODE_0
+
+
+0.2.1
+=========================================================
+删去set_prop_auto_shutter_params函数的枚举变量SHUTTER_PROP_TEMP_THRESHOLD_B
+修改i2c_check_access_done函数，状态寄存器错误即返回
+
+
+0.2.0
+=========================================================
+删去Tiny1C无用接口：
+ir_error_t start_capture(void);
+ir_error_t get_capture_data(void);
+ir_error_t exit_capture(void);
+ir_error_t lens_k_cal(void);
+ir_error_t set_prop_overexposure_params(enum prop_overexposure_params ovexp_param, uint16_t value);
+ir_error_t get_prop_overexposure_params(enum prop_overexposure_params ovexp_param, uint16_t* value);
+ir_error_t shutter_vtemp_get(uint16_t* cur_vtemp);
+
+
+修改内容：
+更新prop_auto_shutter_params 类型和注释
+更新prop_image_params 类型和注释
+更新prop_tpd_params 类型和注释
+
+新增内容：
+新增固件升级功能
+新增一种出图模式（每5帧图像获取一帧温度，用于客户平台降频使用）
+
+
+0.1.0
+=========================================================
+出图功能
+移植linux平台所有命令接口
+三种出图模式
