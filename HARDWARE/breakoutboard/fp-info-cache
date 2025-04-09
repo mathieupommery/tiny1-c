@@ -1,4 +1,4 @@
-24746070786770880
+24756493970005014
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -99547,9 +99547,51 @@ breakout
 1
 1
 breakout
+DFN0603-2L
+
+
+0
+2
+2
+breakout
 hole 2.1mm
 
 
 0
 1
 1
+diode esd
+SOT95P230X110-3N
+SOT-23-
+Diode ESD (Bi-directional)
+0
+3
+3
+ensea
+trooperv2
+
+
+0
+0
+0
+ensea2
+ensea
+
+
+0
+0
+0
+ensea2
+fleche
+
+
+0
+0
+0
+ensea2
+logo ensea
+
+
+0
+0
+0
