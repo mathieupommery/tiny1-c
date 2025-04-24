@@ -1,4 +1,4 @@
-24758240350843586
+24768696892219269
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -99539,27 +99539,6 @@ Connector
 0
 44
 44
-breakout
-1mmx1mm
-
-
-0
-1
-1
-breakout
-DFN0603-2L
-
-
-0
-2
-2
-breakout
-hole 2.1mm
-
-
-0
-1
-1
 diode esd
 SOT95P230X110-3N
 SOT-23-
@@ -99595,6 +99574,62 @@ logo ensea
 0
 0
 0
+kxt341
+SW_KXT3
+
+
+0
+2
+2
+samacsys
+LFXTAL069527REEL
+1.60mm x 1.20mm x 0.4
+Crystal or Oscillator
+0
+4
+4
+samacsys
+NE555DR
+D (R-PDSO-G8)
+Integrated Circuit
+0
+8
+8
+samacsys
+QFN40P700X700X90-57N-D
+QFN56 (7×7 mm) Package
+Integrated Circuit
+0
+57
+57
+samacsys
+SON50P200X200X80-7N-D
+DC6 Package
+Integrated Circuit
+0
+7
+7
+samacsys
+SON50P200X200X80-9N
+DSG0008A_2023
+Integrated Circuit
+0
+9
+9
+samacsys
+SON50P300X200X40-9N
+8-Pad XSON 2x3x0.4-mm
+Integrated Circuit
+0
+9
+9
+samacsys
+SON95P300X300X90-7N-D
+LDO40LPU33RY_
+Integrated Circuit
+0
+7
+7
 tiny1c
 tiny1c
 
@@ -99602,3 +99637,10 @@ tiny1c
 0
 48
 44
+usbcwurth
+WURTH_629722000214
+
+
+0
+16
+11
