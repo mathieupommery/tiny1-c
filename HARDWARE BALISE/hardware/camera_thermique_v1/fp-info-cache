@@ -1,4 +1,4 @@
-24768696892219269
+24780915222646166
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -99582,6 +99582,41 @@ SW_KXT3
 2
 2
 samacsys
+687108183722
+687108183722-2
+Connector
+0
+10
+10
+samacsys
+2N7002KQBZ
+2N7002KQBZ
+MOSFET (N-Channel)
+0
+4
+4
+samacsys
+636101111001
+636101111001-1
+Connector
+0
+3
+3
+samacsys
+473092651
+47309-2651
+Connector
+0
+12
+12
+samacsys
+824014883
+824014883-2
+TVS Diode (Uni-directional)
+0
+9
+9
+samacsys
 LFXTAL069527REEL
 1.60mm x 1.20mm x 0.4
 Crystal or Oscillator
@@ -99595,6 +99630,13 @@ Integrated Circuit
 0
 8
 8
+samacsys
+PCM12SMTR
+PCM12SMTR-1
+Switch
+0
+7
+7
 samacsys
 QFN40P700X700X90-57N-D
 QFN56 (7×7 mm) Package
@@ -99630,6 +99672,13 @@ Integrated Circuit
 0
 7
 7
+samacsys
+SOT65P210X110-6N
+SC70-6L
+Diode
+0
+6
+6
 tiny1c
 tiny1c
 
